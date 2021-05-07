@@ -12,6 +12,7 @@ namespace Teste_PI3S
 
             if (A == 1){
                 System.Console.WriteLine( "hahaha");
+                System.Console.WriteLine( "hahaha");
             }
         }
     }
